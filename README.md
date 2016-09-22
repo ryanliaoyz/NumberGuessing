@@ -1,2 +1,2 @@
 # NumberGuessing
-homework 9/20
+Number Guessing homework 9/20
